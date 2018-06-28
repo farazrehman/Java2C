@@ -7,6 +7,9 @@ public class Java2C {
 		
 		System.out.println("---- HELLO 2C ----");
 		System.out.println(getName());
+		
+		Coin nc = new Coin();
+		System.out.println(nc.getCName());
 
 	}
 	
