@@ -10,6 +10,8 @@ public class Java2C {
 		
 		Coin nc = new Coin();
 		System.out.println(nc.getCName());
+		
+		System.out.println("Now I am on MAC");
 
 	}
 	
